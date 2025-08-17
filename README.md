@@ -14,4 +14,3 @@ Este aprendizaje me permitirá integrar mi experiencia en investigación de merc
 
 Considero que la programación es una manera de reinventarme profesionalmente y de generar proyectos autónomos que combinen creatividad, análisis y tecnología. Además, creo que puedo aportar mi experiencia en trabajo en equipo, liderazgo de proyectos y análisis crítico, al mismo tiempo que aprendo de la visión y las ideas frescas de mis compañeros.
 
-![Foto Norma](./Yo.jpeg)
