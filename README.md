@@ -1,7 +1,7 @@
 
 
 # Programación con objetos I
-## Presentación Personal
+## Presentación
 
 ### Datos Personales
 Hola, soy Norma Gomez. Tengo 64 años y estoy estudiando programación porque quiero reinventarme y abrir nuevos caminos. 
@@ -9,8 +9,9 @@ Vengo del mundo de la consultoría e investigación de mercados, pero siempre tu
 Me gusta aprender, compartir experiencias y seguramente vamos a crecer mucho juntos en esta carrera.
 
 
-### Otra Información
-Este aprendizaje me permitirá integrar mi experiencia en investigación de mercados con nuevas herramientas tecnológicas, lo que me abre la posibilidad de desarrollar proyectos propios y mantenerme actualizada en un área clave para el futuro. Me interesa especialmente la programación orientada a objetos, la automatización de procesos y la aplicación de la tecnología al análisis de datos.
+### Algunas otras cosas
+Me apasiona leer y disfruto mucho escribiendo poemas.
+A lo largo de mi vida tuve que asumir muchas responsabilidades familiares, pero hoy tengo la posibilidad de elegir qué hacer, y eso me ilusiona profundamente.
+Decidí empezar por estudiar en una universidad que me maravilla cada día.
 
-Considero que la programación es una manera de reinventarme profesionalmente y de generar proyectos autónomos que combinen creatividad, análisis y tecnología. Además, creo que puedo aportar mi experiencia en trabajo en equipo, liderazgo de proyectos y análisis crítico, al mismo tiempo que aprendo de la visión y las ideas frescas de mis compañeros.
-
+<img src="./Yo.jpeg" alt="Foto Norma" width="250"/>
